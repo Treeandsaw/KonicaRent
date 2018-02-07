@@ -18,10 +18,10 @@ http://amina.co.kr/bbs/board.php?bo_table=skin_member&wr_id=9218
 https://github.com/Treeandsaw/KonicaRent
 - img/home.png
 
-4. 게시판 만들기
-테이블명: rent
-스킨명: rent
-파일 업로드 개수: 8개로 수정
+4. 게시판 만들기 <br>
+테이블명: rent <br>
+스킨명: rent <br>
+파일 업로드 개수: 8개로 수정 <br>
 
 5. mapmarkers2.php 파일 수정
 
