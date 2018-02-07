@@ -25,3 +25,9 @@ https://github.com/Treeandsaw/KonicaRent
 
 5. mapmarkers2.php 파일 수정
 
+6. 첫화면 위젯 설정에서 가로에 3개씩 설정
+
+7. 스타일 위젯에서 
+- 페이지 설정: 1단 와이드
+
+
