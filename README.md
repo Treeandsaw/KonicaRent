@@ -8,13 +8,13 @@
 # KonicaRent
 아미나 회원 테마 Konica Rent from Amina Theme
 
-1. 기본파일 설치
+1. 기본파일 설치 <br>
 그누보드 + 아미나
 
-2. 아미나에서 받은 파일 설치 
+2. 아미나에서 받은 파일 설치  <br>
 http://amina.co.kr/bbs/board.php?bo_table=skin_member&wr_id=9218
 
-3. github에 필요한 파일 설치
+3. github에 필요한 파일 설치 <br>
 https://github.com/Treeandsaw/KonicaRent
 - img/home.png
 
